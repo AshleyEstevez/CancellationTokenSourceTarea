@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\bin\Debug\net8.0\CancellationTokenSourceTarea.exe
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\bin\Debug\net8.0\CancellationTokenSourceTarea.deps.json
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\bin\Debug\net8.0\CancellationTokenSourceTarea.runtimeconfig.json
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\bin\Debug\net8.0\CancellationTokenSourceTarea.dll
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\bin\Debug\net8.0\CancellationTokenSourceTarea.pdb
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\obj\Debug\net8.0\CancellationTokenSourceTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\obj\Debug\net8.0\CancellationTokenSourceTarea.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\obj\Debug\net8.0\CancellationTokenSourceTarea.AssemblyInfo.cs
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\obj\Debug\net8.0\CancellationTokenSourceTarea.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\obj\Debug\net8.0\CancellationTokenSourceTarea.dll
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\obj\Debug\net8.0\refint\CancellationTokenSourceTarea.dll
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\obj\Debug\net8.0\CancellationTokenSourceTarea.pdb
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\obj\Debug\net8.0\CancellationTokenSourceTarea.genruntimeconfig.cache
+C:\Users\PC\Desktop\CancellationTokenSourceTarea\obj\Debug\net8.0\ref\CancellationTokenSourceTarea.dll
